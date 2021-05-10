@@ -5,7 +5,7 @@ from wikiBot import getWiki, getWikiRandom
 from keep_alive import keep_alive
 keep_alive()
 
-TOKEN = "NTM0OTc1MjI0NDc1NjgwNzY4.D0S5kQ.2W7hOdDtsNL72q41jpd7zAo36tM"
+TOKEN = "NTM0OTc1MjI0NDc1NjgwNzY4.XD7IgA.DBxy-pF5eX-kLCTR8ubVItMdJNw"
 
 client = discord.Client()
 
